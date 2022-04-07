@@ -1,4 +1,4 @@
-# Deep-Quiz
+# Quizzr
 
 This quiz app will check your knowledge on space and space missions.
 
